@@ -1,0 +1,82 @@
+*{margin: 0%;
+    padding: 0%;}
+   
+body{
+    background-image: linear-gradient(#0714a833,#07298a63),linear-gradient(#00000033,#3e3d6652), url(https://www.teahub.io/photos/full/331-3316831_cute-baby-girl-pictures-for-facebook-profile-weneedfun.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    height: 800px;
+}
+    nav{
+        color: white
+        position: fixed;
+        width: 100%;}
+    #all{display: inline-block;
+    width: 1320px;
+    margin-left: 70px;
+    padding: 3px;
+    margin-top: 20px;}
+    
+    
+    #logo{font-family: arial;
+        float: left;
+        font-size: 12px;
+        letter-spacing: 1px;
+    color: white;}
+    #list{float: right;
+        width: 500px;
+        padding: px;
+        margin-bottom: 5px;}
+    #list ul{display: inline-block;
+        list-style: none;
+        margin-left: 209px;}
+    #list ul li{display: inline-block;
+        margin-right: 30px;
+        font-family: arial;
+        font-size: 13px;}
+
+    #list ul li a{text-decoration: none;color:white;}
+
+    #block{
+        
+        color: white;
+        width: 600px;
+        margin: 250px;
+        position: absolute;
+        text-align: center;
+        margin-left: 400px;
+        font-family: arial;
+        padding: 25px;
+        word-spacing: 4px;
+    }
+    #line{
+        color: white;
+    font-family: arial;
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-shadow: 2px 1px black;
+    }
+    #link{
+        font-size: 14px;
+        font-family: arial;
+        color: #ffffff82;
+        letter-spacing: 1px;
+        text-shadow: 1px 1px black;
+    }
+    .uiclink{
+        text-decoration-color: #2ad82a;
+        color: white;
+    }
+    button{
+        background: #0bac0b;
+        color: white;
+        padding: 11px;
+        margin-top: 25px;
+        border: none;
+        font-family: arial;
+        font-size: 11px;
+        box-shadow: 1px 1px 1px 0px #2dcb2d;
+    }
+   
